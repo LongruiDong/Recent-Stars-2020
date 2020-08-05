@@ -1,10 +1,31 @@
-# Recent Stars 2020
 
+<!--# Recent Stars 2020-->
+
+<p align="center">
+ <img width="100px" src="https://s4.aconvert.com/convert/p3r68-cdx67/ai8ay-7w5ao.svg" align="center" alt="Recent-Stars-2020" />
+ <h1 align="center">Recent Stars 2020</h1>
+ <p align="center">✔ This repo collects some links with papers which I recently starred related on SLAM, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc.</p>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vincentqyw/Recent-Stars-2020">
+    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+  </a>
+  <a href="http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019">
+    <img alt="HitCount" src="http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019.svg" />
+  </a>
+  <a href="https://vincentqin.tech">
+    <img alt="LICENSE" src="https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square" />
+  </a>
+</p>
+
+
+<!--
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Vincentqyw/Recent-Stars-2020)
 [![HitCount](http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019.svg)](http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/Vincentqyw/Recent-Stars-2020)
-
 ✔ This repo collects some links with papers which I recently starred related on SLAM, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc.
+-->
 
 ## SLAM related
 
@@ -22,7 +43,7 @@
 
 - [**Calib**][SensorCalibration](https://github.com/FENGChenxi0823/SensorCalibration), IMU雷达标定
 
-- [**LPVO**][Low-Drift Visual Odometry in Structured Environments by Decoupling Rotational and Translational Motion](https://github.com/PyojinKim/LPVO),ICRA 2018, **[[PDF](http://pyojinkim.com/download/papers/2018_ICRA.pdf)]**, 结构化环境中将旋转量与平移量进行分离优化
+- [**VO**][Low-Drift Visual Odometry in Structured Environments by Decoupling Rotational and Translational Motion](https://github.com/PyojinKim/LPVO),ICRA 2018, **[[PDF](http://pyojinkim.com/download/papers/2018_ICRA.pdf)]**, 结构化环境中将旋转量与平移量进行分离优化
 
 - [**VIO**][VIO-SLAM](https://github.com/iamwangyabin/VIO-SLAM), 从零开始手写VIO课后作业
 
